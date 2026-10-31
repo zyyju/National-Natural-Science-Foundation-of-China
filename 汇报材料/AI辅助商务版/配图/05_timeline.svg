@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<line x1="80.0" y1="40.0" x2="80.0" y2="400.0" stroke="#008786" stroke-width="4.166666666666667"/>
+<ellipse cx="80.0" cy="55.0" rx="15.0" ry="15.0" fill="#008786" stroke="#008786"/>
+<rect x="135.0" y="25.0" width="425.0" height="75.0" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="150.0" y="63.75" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="25.0" font-weight="700" fill="#17314A">2015 合成表征</text>
+<ellipse cx="80.0" cy="157.0" rx="15.0" ry="15.0" fill="#008786" stroke="#008786"/>
+<rect x="135.0" y="127.0" width="425.0" height="75.0" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="150.0" y="165.75" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="25.0" font-weight="700" fill="#17314A">2020 能带与合金</text>
+<ellipse cx="80.0" cy="259.0" rx="15.0" ry="15.0" fill="#008786" stroke="#008786"/>
+<rect x="135.0" y="229.0" width="425.0" height="75.0" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="150.0" y="267.75" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="25.0" font-weight="700" fill="#17314A">2022 Ca / Ge</text>
+<ellipse cx="80.0" cy="361.0" rx="15.0" ry="15.0" fill="#D29650" stroke="#D29650"/>
+<rect x="135.0" y="331.0" width="425.0" height="75.0" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="150.0" y="369.75" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="25.0" font-weight="700" fill="#17314A">机制待分解</text>
+</svg>

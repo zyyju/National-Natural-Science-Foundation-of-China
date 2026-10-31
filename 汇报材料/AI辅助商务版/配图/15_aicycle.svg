@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="20.0" y="30.0" width="242.0" height="100.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="35.0" y="66.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#008786">物理特征</text>
+<rect x="338.0" y="30.0" width="242.0" height="100.0" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="353.0" y="66.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#17314A">小样本基线</text>
+<rect x="338.0" y="290.0" width="242.0" height="100.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="353.0" y="326.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#008786">不确定性选点</text>
+<rect x="20.0" y="290.0" width="242.0" height="100.0" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="35.0" y="326.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#17314A">独立DFT回证</text>
+<line x1="280.0" y1="80.0" x2="320.00000000000006" y2="80.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="320.0" y1="80.0" x2="311.0484925183752" y2="85.48821590377192" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="320.0" y1="80.0" x2="311.0484925183752" y2="74.51178409622808" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="459.99999999999994" y1="155.0" x2="459.99999999999994" y2="265.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="459.99999999999994" y1="265.0" x2="454.51178409622804" y2="256.04849251837516" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="459.99999999999994" y1="265.0" x2="465.48821590377185" y2="256.04849251837516" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="315.0" y1="340.0" x2="285.0" y2="340.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="285.0" y1="340.0" x2="293.95150748162484" y2="334.5117840962281" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="285.0" y1="340.0" x2="293.95150748162484" y2="345.4882159037719" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="140.0" y1="265.0" x2="140.0" y2="155.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="140.0" y1="155.0" x2="145.4882159037719" y2="163.95150748162482" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="140.0" y1="155.0" x2="134.51178409622807" y2="163.95150748162482" stroke="#008786" stroke-width="2.0833333333333335"/>
+<ellipse cx="299.5" cy="234.5" rx="67.5" ry="67.5" fill="#17314A" stroke="#17314A"/>
+<text x="254.0" y="211.48611111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#FFFFFF">AI</text>
+<text x="254.0" y="240.76388888888889" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#FFFFFF">辅助选点</text>
+</svg>

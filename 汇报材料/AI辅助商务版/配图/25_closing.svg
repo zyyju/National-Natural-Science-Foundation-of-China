@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="32.0" y="100.0" width="172.0" height="100.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="47.0" y="137.4861111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#17314A">局域畸变</text>
+<rect x="227.0" y="100.0" width="172.0" height="100.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="242.0" y="137.4861111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#17314A">载流子散射</text>
+<rect x="422.0" y="100.0" width="172.0" height="100.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="437.0" y="137.4861111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#17314A">PF条件</text>
+<line x1="210.0" y1="148.0" x2="224.0" y2="148.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="224.00000000000003" y1="148.0" x2="215.04849251837524" y2="153.48821590377193" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="224.00000000000003" y1="148.0" x2="215.04849251837524" y2="142.51178409622807" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="405.0" y1="148.0" x2="418.0" y2="148.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="418.0" y1="148.0" x2="409.0484925183752" y2="153.48821590377193" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="418.0" y1="148.0" x2="409.0484925183752" y2="142.51178409622807" stroke="#008786" stroke-width="2.0833333333333335"/>
+<rect x="165.0" y="305.0" width="280.0" height="80.0" rx="12.0" fill="#17314A" stroke="#17314A"/>
+<text x="179.99999999999997" y="342.4861111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#FFFFFF">AI辅助获得关键证据</text>
+<line x1="300" y1="290.0" x2="300" y2="225.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="225.0" x2="305.4882159037719" y2="233.95150748162484" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="225.0" x2="294.5117840962281" y2="233.9515074816248" stroke="#008786" stroke-width="2.0833333333333335"/>
+</svg>

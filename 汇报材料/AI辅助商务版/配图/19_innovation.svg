@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="18.0" y="60.0" width="235.0" height="110.00000000000001" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="32.99999999999999" y="101.27777777777777" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="27.77777777777778" font-weight="700" fill="#008786">化学 / 几何</text>
+<line x1="270.0" y1="112.00000000000001" x2="325.0" y2="112.00000000000001" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="325.0" y1="112.00000000000001" x2="316.0484925183752" y2="117.48821590377194" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="325.0" y1="112.00000000000001" x2="316.0484925183752" y2="106.51178409622808" stroke="#008786" stroke-width="2.0833333333333335"/>
+<rect x="340.0" y="60.0" width="242.0" height="110.00000000000001" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="355.0" y="98.75" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="25.0" font-weight="700" fill="#17314A">散射作用路径</text>
+<rect x="18.0" y="260.0" width="235.0" height="110.00000000000001" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="32.99999999999999" y="301.27777777777777" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="27.77777777777778" font-weight="700" fill="#008786">散射 / 补偿</text>
+<line x1="270.0" y1="312.0" x2="325.0" y2="312.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="325.0" y1="312.0" x2="316.0484925183752" y2="317.4882159037719" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="325.0" y1="312.0" x2="316.0484925183752" y2="306.5117840962281" stroke="#008786" stroke-width="2.0833333333333335"/>
+<rect x="340.0" y="260.0" width="242.0" height="110.00000000000001" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="355.0" y="298.75" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="25.0" font-weight="700" fill="#17314A">PF成立条件</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="20.0" y="35.0" width="158.0" height="110.00000000000001" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="35.0" y="71.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#17314A">母相基准</text>
+<rect x="222.00000000000003" y="35.0" width="158.0" height="110.00000000000001" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="237.0" y="71.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#17314A">四组配对</text>
+<rect x="424.0" y="35.0" width="158.0" height="110.00000000000001" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="439.00000000000006" y="71.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#17314A">AI选点</text>
+<rect x="424.0" y="280.0" width="158.0" height="110.00000000000001" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="439.00000000000006" y="316.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#17314A">显式散射</text>
+<rect x="222.00000000000003" y="280.0" width="158.0" height="110.00000000000001" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="237.0" y="316.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#17314A">机制分解</text>
+<rect x="20.0" y="280.0" width="158.0" height="110.00000000000001" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="35.0" y="316.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#17314A">独立验证</text>
+<line x1="188.0" y1="90.0" x2="212.00000000000003" y2="90.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="212.0" y1="90.0" x2="203.0484925183752" y2="95.48821590377192" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="212.0" y1="90.0" x2="203.0484925183752" y2="84.51178409622808" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="390.0" y1="90.0" x2="414.0" y2="90.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="413.99999999999994" y1="90.0" x2="405.04849251837516" y2="95.48821590377192" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="413.99999999999994" y1="90.0" x2="405.04849251837516" y2="84.51178409622808" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="503.0" y1="170.0" x2="503.0" y2="255.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="503.0" y1="254.99999999999997" x2="497.5117840962281" y2="246.04849251837518" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="503.0" y1="254.99999999999997" x2="508.4882159037719" y2="246.04849251837513" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="413.99999999999994" y1="335.0" x2="389.99999999999994" y2="335.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="390.0" y1="335.0" x2="398.95150748162484" y2="329.5117840962281" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="390.0" y1="335.0" x2="398.95150748162484" y2="340.4882159037719" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="212.0" y1="335.0" x2="187.99999999999997" y2="335.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="188.0" y1="335.0" x2="196.95150748162482" y2="329.5117840962281" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="188.0" y1="335.0" x2="196.95150748162482" y2="340.4882159037719" stroke="#008786" stroke-width="2.0833333333333335"/>
+<text x="50.0" y="433.43055555555554" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="18.055555555555557" font-weight="700" fill="#008786">失败构型与反例保留，全流程可回溯</text>
+</svg>

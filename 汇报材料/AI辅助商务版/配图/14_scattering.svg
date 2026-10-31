@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="15.0" y="35.0" width="180.0" height="105.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="30.0" y="69.95833333333333" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="20.833333333333332" font-weight="700" fill="#008786">声学散射</text>
+<line x1="105.0" y1="165.0" x2="300.0" y2="250.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="250.0" x2="289.60117815375736" y2="251.4541334911577" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="250.0" x2="293.9872002733172" y2="241.39208274628507" stroke="#008786" stroke-width="2.0833333333333335"/>
+<rect x="215.0" y="35.0" width="180.0" height="105.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="229.99999999999997" y="69.95833333333333" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="20.833333333333332" font-weight="700" fill="#008786">杂质 / 补偿</text>
+<line x1="305.0" y1="165.0" x2="300.0" y2="250.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="250.0" x2="295.0469053276477" y2="240.741660345034" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="250.0" x2="306.0043959100217" y2="241.38621861458543" stroke="#008786" stroke-width="2.0833333333333335"/>
+<rect x="415.00000000000006" y="35.0" width="180.0" height="105.0" rx="12.0" fill="#F9EFE8" stroke="#F9EFE8"/>
+<text x="430.00000000000006" y="69.95833333333333" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="20.833333333333332" font-weight="700" fill="#BD5B53">谷间 / 合金</text>
+<line x1="505.00000000000006" y1="165.0" x2="300.0" y2="250.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="250.0" x2="306.1668153017603" y2="241.50174200003468" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="250.0" x2="310.37095357969645" y2="251.6411343174101" stroke="#008786" stroke-width="2.0833333333333335"/>
+<ellipse cx="300.0" cy="303.0" rx="75.0" ry="75.0" fill="#17314A" stroke="#17314A"/>
+<text x="250.99999999999997" y="282.27777777777777" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="27.77777777777778" font-weight="700" fill="#FFFFFF">散射率</text>
+<text x="250.99999999999997" y="316.72222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="27.77777777777778" font-weight="700" fill="#FFFFFF">τ⁻¹</text>
+<line x1="300" y1="390.0" x2="300" y2="420.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="420.0" x2="294.5117840962281" y2="411.0484925183752" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="300" y1="420.0" x2="305.4882159037719" y2="411.0484925183752" stroke="#008786" stroke-width="2.0833333333333335"/>
+<text x="145.0" y="435.48611111111103" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#008786">迁移率 / σ / PF</text>
+</svg>

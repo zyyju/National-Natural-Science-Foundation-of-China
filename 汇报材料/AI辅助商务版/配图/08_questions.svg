@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="25.0" y="45.0" width="254.99999999999997" height="105.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="40.0" y="90.06944444444444" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="31.944444444444443" font-weight="700" fill="#008786">结构起因</text>
+<rect x="320.0" y="45.0" width="254.99999999999997" height="105.0" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="335.0" y="90.06944444444444" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="31.944444444444443" font-weight="700" fill="#17314A">输运条件</text>
+<line x1="155.0" y1="185.0" x2="240.0" y2="260.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="240.0" y1="260.0" x2="229.6566984367542" y2="258.19276100867717" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="240.0" y1="260.0" x2="236.91894321863353" y2="249.9622169225473" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="440.00000000000006" y1="185.0" x2="360.0" y2="260.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="360.0" y1="260.0" x2="362.7768411602134" y2="249.87383818167297" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="360.0" y1="260.0" x2="370.28407432175385" y2="257.88155355398277" stroke="#008786" stroke-width="2.0833333333333335"/>
+<rect x="114.99999999999999" y="270.0" width="375.0" height="95.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="129.99999999999997" y="312.54166666666674" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="29.166666666666668" font-weight="700" fill="#008786">局域畸变 → 散射</text>
+<text x="55.00000000000001" y="416.43055555555554" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="18.055555555555557" font-weight="400" fill="#718393">固定T、p与缺陷条件的成组对照</text>
+</svg>

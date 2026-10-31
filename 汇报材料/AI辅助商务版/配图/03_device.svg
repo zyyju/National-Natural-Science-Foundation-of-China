@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="45.0" y="110.00000000000001" width="105.0" height="200.0" rx="8.0" fill="#BD5B53" stroke="#BD5B53"/>
+<text x="61.0" y="212.80555555555554" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="30.555555555555557" font-weight="700" fill="#FFFFFF">热端</text>
+<rect x="450.0" y="110.00000000000001" width="105.0" height="200.0" rx="8.0" fill="#17314A" stroke="#17314A"/>
+<text x="465.00000000000006" y="212.80555555555554" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="30.555555555555557" font-weight="700" fill="#FFFFFF">冷端</text>
+<rect x="200.0" y="140.0" width="23.0" height="145.0" rx="4.0" fill="#008786" stroke="#008786"/>
+<rect x="240.0" y="140.0" width="23.0" height="145.0" rx="4.0" fill="#D29650" stroke="#D29650"/>
+<rect x="280.0" y="140.0" width="23.0" height="145.0" rx="4.0" fill="#008786" stroke="#008786"/>
+<rect x="320.0" y="140.0" width="23.0" height="145.0" rx="4.0" fill="#D29650" stroke="#D29650"/>
+<rect x="360.0" y="140.0" width="23.0" height="145.0" rx="4.0" fill="#008786" stroke="#008786"/>
+<line x1="162.0" y1="204.99999999999997" x2="200.0" y2="204.99999999999997" stroke="#BD5B53" stroke-width="2.7777777777777777"/>
+<line x1="200.0" y1="204.99999999999997" x2="191.04849251837518" y2="210.48821590377187" stroke="#BD5B53" stroke-width="2.7777777777777777"/>
+<line x1="200.0" y1="204.99999999999997" x2="191.04849251837518" y2="199.51178409622804" stroke="#BD5B53" stroke-width="2.7777777777777777"/>
+<line x1="408.0" y1="204.99999999999997" x2="440.0" y2="204.99999999999997" stroke="#008786" stroke-width="2.7777777777777777"/>
+<line x1="440.00000000000006" y1="204.99999999999997" x2="431.04849251837527" y2="210.48821590377187" stroke="#008786" stroke-width="2.7777777777777777"/>
+<line x1="440.00000000000006" y1="204.99999999999997" x2="431.04849251837527" y2="199.51178409622804" stroke="#008786" stroke-width="2.7777777777777777"/>
+<line x1="210.0" y1="295.0" x2="210.0" y2="354.99999999999994" stroke="#17314A" stroke-width="2.0833333333333335"/>
+<line x1="210.0" y1="355.0" x2="400.0" y2="355.0" stroke="#17314A" stroke-width="2.0833333333333335"/>
+<line x1="400" y1="355.0" x2="400" y2="295.00000000000006" stroke="#17314A" stroke-width="2.0833333333333335"/>
+<ellipse cx="310.0" cy="356.0" rx="25.0" ry="25.0" fill="#D29650" stroke="#D29650"/>
+<text x="297.0" y="356.43055555555554" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="18.055555555555557" font-weight="700" fill="#FFFFFF">电</text>
+<text x="202.99999999999997" y="67.86111111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="36.111111111111114" font-weight="700" fill="#17314A">PF = S²σ</text>
+<text x="155.0" y="421.4861111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#008786">温差驱动热电转换</text>
+</svg>

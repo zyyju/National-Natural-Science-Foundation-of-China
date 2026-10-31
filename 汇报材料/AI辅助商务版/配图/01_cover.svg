@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<line x1="95.0" y1="105.0" x2="231.66666666666666" y2="105.0" stroke="#DCE5EC" stroke-width="1.9444444444444444"/>
+<line x1="231.66666666666663" y1="105.0" x2="368.33333333333326" y2="105.0" stroke="#DCE5EC" stroke-width="1.9444444444444444"/>
+<line x1="368.33333333333326" y1="105.0" x2="505.0" y2="105.0" stroke="#DCE5EC" stroke-width="1.9444444444444444"/>
+<ellipse cx="95.0" cy="105.00000000000001" rx="8.0" ry="8.0" fill="#D29650" stroke="#D29650"/>
+<ellipse cx="231.66666666666663" cy="105.00000000000001" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<ellipse cx="368.33333333333326" cy="105.00000000000001" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<ellipse cx="505.0" cy="105.00000000000001" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<line x1="95.0" y1="200.0" x2="231.66666666666666" y2="206.99999999999997" stroke="#DCE5EC" stroke-width="1.9444444444444444"/>
+<line x1="231.66666666666663" y1="206.99999999999997" x2="368.33333333333326" y2="200.0" stroke="#DCE5EC" stroke-width="1.9444444444444444"/>
+<line x1="368.33333333333326" y1="200.0" x2="505.0" y2="200.0" stroke="#DCE5EC" stroke-width="1.9444444444444444"/>
+<ellipse cx="95.0" cy="200.0" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<ellipse cx="231.66666666666663" cy="206.99999999999997" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<ellipse cx="368.33333333333326" cy="200.0" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<ellipse cx="505.0" cy="200.0" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<line x1="95.0" y1="295.0" x2="231.66666666666666" y2="295.0" stroke="#DCE5EC" stroke-width="1.9444444444444444"/>
+<line x1="231.66666666666663" y1="295.0" x2="368.33333333333326" y2="295.0" stroke="#DCE5EC" stroke-width="1.9444444444444444"/>
+<line x1="368.33333333333326" y1="295.0" x2="505.0" y2="295.0" stroke="#DCE5EC" stroke-width="1.9444444444444444"/>
+<ellipse cx="95.0" cy="295.0" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<ellipse cx="231.66666666666663" cy="295.0" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<ellipse cx="368.33333333333326" cy="295.0" rx="8.0" ry="8.0" fill="#008786" stroke="#008786"/>
+<ellipse cx="505.0" cy="295.0" rx="8.0" ry="8.0" fill="#D29650" stroke="#D29650"/>
+<line x1="95.0" y1="105.0" x2="95.0" y2="295.0" stroke="#DCE5EC" stroke-width="1.3888888888888888"/>
+<line x1="505.0" y1="105.0" x2="505.0" y2="295.0" stroke="#DCE5EC" stroke-width="1.3888888888888888"/>
+<line x1="170.0" y1="35.0" x2="170.0" y2="95.0" stroke="#D29650" stroke-width="2.0833333333333335"/>
+<line x1="170.0" y1="95.0" x2="164.51178409622807" y2="86.04849251837518" stroke="#D29650" stroke-width="2.0833333333333335"/>
+<line x1="170.0" y1="95.0" x2="175.4882159037719" y2="86.04849251837518" stroke="#D29650" stroke-width="2.0833333333333335"/>
+<text x="45.0" y="25.22222222222222" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#008786">Sm位 → Ca</text>
+<line x1="440.00000000000006" y1="375.0" x2="405.0" y2="290.0" stroke="#D29650" stroke-width="2.0833333333333335"/>
+<line x1="405.0" y1="290.0" x2="413.4831177762795" y2="296.18762578003634" stroke="#D29650" stroke-width="2.0833333333333335"/>
+<line x1="405.0" y1="290.0" x2="403.33345168444254" y2="300.3669000531457" stroke="#D29650" stroke-width="2.0833333333333335"/>
+<text x="355.0" y="400.22222222222223" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="22.22222222222222" font-weight="700" fill="#D29650">Bi位 → Ge</text>
+<ellipse cx="288.0" cy="187.0" rx="40.0" ry="40.0" fill="#FFFFFF" stroke="#008786"/>
+<text x="262.0" y="173.16666666666666" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="16.666666666666668" font-weight="700" fill="#008786">局域</text>
+<text x="262.0" y="193.83333333333331" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="16.666666666666668" font-weight="700" fill="#008786">畸变</text>
+<text x="75.0" y="428.9027777777778" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="15.277777777777779" font-weight="400" fill="#718393">位点与键合关系概念示意</text>
+</svg>

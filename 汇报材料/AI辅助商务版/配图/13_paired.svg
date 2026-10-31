@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="15.0" y="40.0" width="254.99999999999997" height="105.0" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="30.0" y="74.95833333333334" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="20.833333333333332" font-weight="700" fill="#17314A">母相 / 固定几何</text>
+<rect x="330.0" y="40.0" width="254.99999999999997" height="105.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="345.0" y="74.95833333333334" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="20.833333333333332" font-weight="700" fill="#17314A">取代 / 固定几何</text>
+<rect x="15.0" y="260.0" width="254.99999999999997" height="105.0" rx="12.0" fill="#F4F7FA" stroke="#F4F7FA"/>
+<text x="30.0" y="294.9583333333333" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="20.833333333333332" font-weight="700" fill="#17314A">母相 / 弛豫几何</text>
+<rect x="330.0" y="260.0" width="254.99999999999997" height="105.0" rx="12.0" fill="#EAF4F3" stroke="#EAF4F3"/>
+<text x="345.0" y="294.9583333333333" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="20.833333333333332" font-weight="700" fill="#17314A">取代 / 弛豫几何</text>
+<line x1="278.0" y1="95.0" x2="318.00000000000006" y2="95.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="318.0" y1="95.0" x2="309.04849251837516" y2="100.48821590377193" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="318.0" y1="95.0" x2="309.04849251837516" y2="89.51178409622808" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="278.0" y1="315.0" x2="318.00000000000006" y2="315.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="318.0" y1="315.0" x2="309.04849251837516" y2="320.4882159037719" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="318.0" y1="315.0" x2="309.04849251837516" y2="309.5117840962281" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="140.0" y1="165.0" x2="140.0" y2="240.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="140.0" y1="240.0" x2="134.51178409622807" y2="231.04849251837516" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="140.0" y1="240.0" x2="145.4882159037719" y2="231.04849251837516" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="455.0" y1="165.0" x2="455.0" y2="240.0" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="455.0" y1="240.0" x2="449.5117840962281" y2="231.04849251837516" stroke="#008786" stroke-width="2.0833333333333335"/>
+<line x1="455.0" y1="240.0" x2="460.4882159037719" y2="231.04849251837516" stroke="#008786" stroke-width="2.0833333333333335"/>
+<text x="40.0" y="420.69444444444446" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="19.444444444444443" font-weight="700" fill="#008786">横向：化学贡献；纵向：几何贡献</text>
+</svg>

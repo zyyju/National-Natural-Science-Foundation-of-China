@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450.0" viewBox="0 0 600 450.0">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="20.0" y="81.48611111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#008786">训练组</text>
+<rect x="185.0" y="50.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#008786" stroke="#008786"/>
+<rect x="254.99999999999997" y="50.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#008786" stroke="#008786"/>
+<rect x="325.0" y="50.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#008786" stroke="#008786"/>
+<rect x="395.0" y="50.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#008786" stroke="#008786"/>
+<rect x="465.00000000000006" y="50.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#008786" stroke="#008786"/>
+<text x="20.0" y="186.48611111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#D29650">验证组</text>
+<rect x="185.0" y="155.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#D29650" stroke="#D29650"/>
+<rect x="254.99999999999997" y="155.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#D29650" stroke="#D29650"/>
+<rect x="325.0" y="155.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#D29650" stroke="#D29650"/>
+<rect x="395.0" y="155.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#D29650" stroke="#D29650"/>
+<rect x="465.00000000000006" y="155.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#D29650" stroke="#D29650"/>
+<text x="20.0" y="291.4861111111111" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="23.61111111111111" font-weight="700" fill="#17314A">独立测试</text>
+<rect x="185.0" y="260.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#17314A" stroke="#17314A"/>
+<rect x="254.99999999999997" y="260.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#17314A" stroke="#17314A"/>
+<rect x="325.0" y="260.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#17314A" stroke="#17314A"/>
+<rect x="395.0" y="260.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#17314A" stroke="#17314A"/>
+<rect x="465.00000000000006" y="260.0" width="52.0" height="55.00000000000001" rx="6.0" fill="#17314A" stroke="#17314A"/>
+<text x="114.99999999999999" y="404.0138888888889" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="26.38888888888889" font-weight="700" fill="#008786">同一构型家族归同一组</text>
+<text x="40.0" y="438.16666666666674" font-family="Noto Sans CJK SC,DejaVu Sans,sans-serif" font-size="16.666666666666668" font-weight="400" fill="#718393">主动选点 ↔ 随机选点：相同计算预算</text>
+</svg>
